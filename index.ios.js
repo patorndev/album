@@ -13,5 +13,5 @@ const App = () => (
   </View>
 );
 
-// Render to Device
+// Render to Device sfge
 AppRegistry.registerComponent('albums', () => App);
