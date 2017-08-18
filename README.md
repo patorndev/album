@@ -7,6 +7,7 @@ by Stephen Grider
 
 + Create a simple application that link user to buy albums from Amazon.com via mobile web browser.
 + Learn how to create reusable components in React Native.
++ Learn basic React Native Lifecycle method.
 + Learn use case of props and state in React Native.
 + Learn how to style components with Flexbox.
 + Learn how to fetch the data by external library Axios
